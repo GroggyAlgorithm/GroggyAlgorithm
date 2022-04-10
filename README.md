@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ## Generic greeting 👋
 
 
-# I'm Tim!
+# I'm Tim! #
 
 
-## Who is Tim?
+## Who is Tim? ##
 
 
 I'm a positive person who is fascinated by ideas and new concepts, someone who is excited to continously improve, and someone who loves a good challange. I'm highly motivated by learning and I am always searching out new projects and activities.
@@ -36,19 +36,19 @@ I'm a positive person who is fascinated by ideas and new concepts, someone who i
 
 
 
-## Is my profile and portfolio completely up to date?
+## Is my profile and portfolio completely up to date? ##
 
 
 
-# NO!
+# NO! #
 
 
 
-## Why not?
+## Why not? ##
 
 
 
-### I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here.
+### I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here. ###
 
 
 
@@ -63,7 +63,7 @@ I like coffee, I get up super early, and I started using it with no other though
 
 
 
-## What work do I currently do?
+## What work do I currently do? ##
 
 
 I am currently working as a part of a skilled research and development team who creates educational automotive training electronics. This includes creating desktop software, embedded programs for microcontrollers, hardware systems, and the integration of real modules from vehicles (such as the BCM, or Body Control Module) and making them work outside of their networks.
@@ -93,10 +93,10 @@ GIFS should be here but uh, the files were too large. I'll put them up when I fi
 
 
 
-## Some Technical Skills
+## Some Technical Skills ##
 
 
-#### Programming Languages
+#### Programming Languages ####
 
 
 I frequently use are: 
@@ -133,7 +133,7 @@ I have experience with:
 
 
 
-## A Quick Summary
+## A Quick Summary ##
 
 
 
