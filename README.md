@@ -32,11 +32,23 @@ I'm a positive person who is fascinated by ideas and new concepts, someone who i
 
 
 
+
+### Is my profile and portfolio completely up to date?
+
+
+## NO!
+
+
+### Why not?
+
+
+## I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here.
+
+
 ### What work do I currently do?
 
 
 I am currently working as a part of a skilled research and development team who creates educational automotive training electronics. This includes creating desktop software, embedded programs for microcontrollers, hardware systems, and the integration of real modules from vehicles (such as the BCM, or Body Control Module) and making them work outside of their networks.
-
 
 
 For personal projects, I often explore the concept of randomness in computer science(it's interesting), work on small game development projects, and work on any interesting projects I can think of.
@@ -45,6 +57,9 @@ For personal projects, I often explore the concept of randomness in computer sci
 
 
 Here's one of my favorite challanges I've worked on so far! It's a simulation of celestial gravity using physics formulas and implements a level of detail system and procedural generation for the celestial bodies! 
+
+
+GIFS should be here but uh, the files were too large. I'll put them up when I fix that! If you'd like the see the source videos or gif files, let me know.
 
 
 
@@ -60,25 +75,13 @@ Here's one of my favorite challanges I've worked on so far! It's a simulation of
 
 
 
-### Is my profile and portfolio completely up to date?
-
-
-## NO!
-
-
-### Why not?
-
-
-## I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here.
-
-
 ### Some Technical Skills
 
 
 #### Programming Languages
 
 
-Some of the programming languages I frequently use are: 
+I frequently use are: 
 
 * C
 * C++
@@ -88,6 +91,7 @@ Some of the programming languages I frequently use are:
 * Java
 * SQL
 * Javascript
+* JSON
 
 
 
@@ -111,15 +115,12 @@ I have experience with:
 
 
 
-
-
-
-
 ## A Quick Summary
 
 
 
 ![](assets/c.svg)
+![](assets/json.svg)
 ![](assets/cplusplus.svg)
 ![](assets/csharp.svg)
 ![](assets/dotnet.svg)
