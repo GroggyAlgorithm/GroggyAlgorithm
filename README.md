@@ -1,4 +1,4 @@
-### Generic greeting 👋
+
 
 <!--
 **GroggyAlgorithm/GroggyAlgorithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Tim.
+## Generic greeting 👋
 
 
-## Who am I?
+# I'm Tim!
+
+
+## Who is Tim?
 
 
 I'm a positive person who is fascinated by ideas and new concepts, someone who is excited to continously improve, and someone who loves a good challange. I'm highly motivated by learning and I am always searching out new projects and activities.
@@ -36,13 +39,28 @@ I'm a positive person who is fascinated by ideas and new concepts, someone who i
 ## Is my profile and portfolio completely up to date?
 
 
-## NO!
+
+# NO!
+
 
 
 ## Why not?
 
 
+
 ### I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here.
+
+
+
+> What's with the username?
+
+
+
+I like coffee, I get up super early, and I started using it with no other thoughts or reason behind it! I needed a new username I thought it up withm my working coffee! 
+
+
+⚡ Fun fact: *The duck is a rubber duck I received as a gift! I like that little guy.*
+
 
 
 ## What work do I currently do?
