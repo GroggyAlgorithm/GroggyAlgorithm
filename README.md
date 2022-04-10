@@ -31,7 +31,7 @@ I'm a positive person who is fascinated by ideas and new concepts, someone who i
 
 
 
-⚡ Fun fact: *I've worked with software for a long time, starting with game development with the Unity Game Engine, but I developed an extremely strong interest and passion after taking a **good knock to the noggin**. Yes, I'm fine, the only side effects I've noticed is a slightly decreased short term memory and things similar to that.*
+⚡ Fun fact: *I've worked with software for a long time, starting with game development with the Unity Game Engine, but I developed an extremely strong interest and passion after taking a **good knock to the noggin**. Yes, I'm fine, the only side effects I've noticed are a slightly decreased short term memory and things similar to that.*
 
 
 
