@@ -18,106 +18,164 @@ Here are some ideas to get you started:
 -->
 
 
-## Generic greeting 👋
+
 
  
  
-     
+ <h3>
+
+ 
+<h1> 
+ 
+ Generic greeting 👋  
  
  
- <h1>
- I'm Tim!
-</h1>
+ </h1>
  
-#  #
  
+<br/>
+ 
+<p>
+ 
+I'm Tim!
+
+ 
+<hr/>
+
+ 
+
  
  
 I'm a positive person who is fascinated by ideas and new concepts, someone who is excited to continously improve, and someone who loves a good challange. I'm highly motivated by learning and I am always searching out new projects and activities.
+
+ 
+ 
+ <br/>
  
  
  
 ⚡ Fun fact: *I've worked with software for a long time, starting with game development with the Unity Game Engine, but I developed an extremely strong interest and passion after taking a **good knock to the noggin**. Yes, I'm fine, the only side effects I've noticed are a slightly decreased short term memory and things similar to that.*
- 
- 
- 
- 
- 
- 
- 
-## Is my profile and portfolio completely up to date? ##
 
-# NO! #
  
- 
- 
- 
-## Why not? ##
 
-### I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here. ###
  
  
+ <br/>
+ <br/>
  
  
-### FAQ ###
+ FAQ 
+ 
+ 
+ <hr/>
 
+
+ 
+ 
 > What's with the username?
 
+ 
+<br/>
 
+ 
 I like coffee, I get up super early, and I started using it with no other thoughts or reason behind it! I needed a new username I thought it up withm my working coffee! 
 
+ 
 
 ⚡ Fun fact: *The duck is a rubber duck I received as a gift! I like that little guy.*
- 
- 
- 
- 
- 
-## What work do I currently do? ##
 
 
-I am currently working as a part of a skilled research and development team who creates educational automotive training electronics. This includes creating desktop software, embedded programs for microcontrollers, hardware systems, and the integration of real modules from vehicles (such as the BCM, or Body Control Module) and making them work outside of their networks.
+<br/>
+<br/>
 
+
+> Is my profile and portfolio completely up to date?
+ 
+<br/>
+ 
+NO!
+ 
+<br/>
+<br/> 
+
+> Why not?
+ 
+ <br/>
+ 
+ I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here.
+ 
+ 
+ 
+ </p>
+ 
+ </h3>
+ 
+<br/>
+ 
+ 
+<h3>What work do I currently do?</h3>
+
+
+<hr/>
+
+
+ 
+<p>
+ 
+ I am currently working as a part of a skilled research and development team who creates educational automotive training electronics. This includes creating desktop software, embedded programs for microcontrollers, hardware systems, and the integration of real modules from vehicles (such as the BCM, or Body Control Module) and making them work outside of their networks.
+
+ <br/>
 
 For personal projects, I often explore the concept of randomness in computer science(it's interesting), work on small game development projects, and work on any interesting projects I can think of.
  
+ <br/>
  
- 
- 
-Here's one of my favorite challanges I've worked on so far! It's a simulation of celestial gravity using physics formulas and implements a level of detail system and procedural generation for the celestial bodies! 
+   
+ Here's one of my favorite challanges I've worked on so far! It's a simulation of celestial gravity using physics formulas and implements a level of detail system and procedural generation for the celestial bodies! 
 
+   
+<br/>
+<br/>
 
+   
 GIFS should be here but uh, the files were too large. I'll put them up when I fix that! If you'd like the see the source videos or gif files, let me know.
 
-
-
+<!-- 
 ![](assets/rotation_lod.gif)
-
 
 ![](assets/roation_with_guide2.gif)
 
-
 ![](assets/rotation_w_guides_1.gif)
 
- 
+-->
   
-   
-    
-      
-       
-        
-         
-          
-           
-            
+</p>
 
-## Some Technical Skills ##
+<br/>
 
 
-#### Programming Languages ####
+
+<h3>Some Technical Skills</h3>
+
+<hr/>
+
+<p>
+
+```Programming```
+ 
+<img src="assets/c.svg" width="5%" height="5%"></img>
+<img src="assets/cplusplus.svg" width="5%" height="5%"></img>
+<img src="assets/csharp.svg" width="5%" height="5%"></img>
+<img src="assets/dotnet.svg" width="5%" height="5%"></img>
+<img src="assets/python.svg" width="5%" height="5%"></img>
+<img src="assets/json.svg" width="5%" height="5%"></img>
+<img src="assets/unity.svg" width="5%" height="5%"></img>
+<img src="assets/unrealengine.svg" width="5%" height="5%"></img>
+<img src="assets/godotengine.svg" width="5%" height="5%"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Atmel_logo.svg" width="5%" height="5%"></img>
 
 
-I frequently use are: 
+I frequently use: 
 
 * C
 * C++
@@ -128,6 +186,22 @@ I frequently use are:
 * SQL
 * Javascript
 * JSON
+
+</p>
+ 
+<br/>
+ 
+
+
+
+```Skill Set```
+
+
+
+
+
+<p>
+
 
 
 
@@ -144,9 +218,7 @@ I have experience with:
 * Educational Automotive Simulations
 * IOT and Electronics Development
 * Embedded Software for Microcontrollers
-* Reverse Engineering
-* (Some) Signal Processing
-* Much, Much More
+* **AND MORE**
 
 
  
@@ -154,7 +226,7 @@ I have experience with:
  
  
   
- 
+ </p>
  
  
   
