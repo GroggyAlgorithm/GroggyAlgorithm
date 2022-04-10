@@ -57,9 +57,7 @@ I'm a positive person who is fascinated by ideas and new concepts, someone who i
 
 
 
-
-
-
+### FAQ ###
 
 > What's with the username?
 
@@ -68,9 +66,6 @@ I like coffee, I get up super early, and I started using it with no other though
 
 
 ⚡ Fun fact: *The duck is a rubber duck I received as a gift! I like that little guy.*
-
-
-
 
 
 
@@ -102,12 +97,17 @@ GIFS should be here but uh, the files were too large. I'll put them up when I fi
 
 ![](assets/rotation_w_guides_1.gif)
 
-
-
-
-
-
-
+ 
+  
+   
+    
+      
+       
+        
+         
+          
+           
+            
 
 ## Some Technical Skills ##
 
