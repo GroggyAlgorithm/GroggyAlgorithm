@@ -146,12 +146,17 @@ GIFS should be here but uh, the files were too large. I'll put them up when I fi
 ![](assets/roation_with_guide2.gif)
 
 ![](assets/rotation_w_guides_1.gif)
-
+https://img.shields.io/endpoint?url=<URL>&style<STYLE>
+![](https://img.shields.io/endpoint?url=<URL>&style<STYLE>)
+<img src="assets/unity.svg" width="5%" height="5%"></img>
+<img src="assets/unrealengine.svg" width="5%" height="5%"></img>
+<img src="assets/godotengine.svg" width="5%" height="5%"></img>
 -->
   
 </p>
 
 <br/>
+
 
 
 
@@ -162,32 +167,47 @@ GIFS should be here but uh, the files were too large. I'll put them up when I fi
 <p>
 
 ```Programming```
+
  
-<img src="assets/c.svg" width="5%" height="5%"></img>
-<img src="assets/cplusplus.svg" width="5%" height="5%"></img>
-<img src="assets/csharp.svg" width="5%" height="5%"></img>
-<img src="assets/dotnet.svg" width="5%" height="5%"></img>
-<img src="assets/python.svg" width="5%" height="5%"></img>
-<img src="assets/json.svg" width="5%" height="5%"></img>
-<img src="assets/unity.svg" width="5%" height="5%"></img>
-<img src="assets/unrealengine.svg" width="5%" height="5%"></img>
-<img src="assets/godotengine.svg" width="5%" height="5%"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Atmel_logo.svg" width="5%" height="5%"></img>
+![](https://img.shields.io/badge/-C-blue)
+![](https://img.shields.io/badge/-C%2B%2B-blue)
+![](https://img.shields.io/badge/-C%23-blue)
+![](https://img.shields.io/badge/-.Net-blue)
+![](https://img.shields.io/badge/-AVR-red)
+![](https://img.shields.io/badge/-PIC-red)
+![](https://img.shields.io/badge/-8051-red)
+![](https://img.shields.io/badge/-SQL-yellow)
+![](https://img.shields.io/badge/-JSON-yellow)
+![](https://img.shields.io/badge/-Java-yellow)
+![](https://img.shields.io/badge/-JavaScript-yellow)
+![](https://img.shields.io/badge/-Python-brightgreen)
 
 
-I frequently use: 
+ <br/>
+ 
+ 
+<!-- 
 
-* C
-* C++
-* C#
-* Python
-* HLSL
-* Java
-* SQL
-* Javascript
-* JSON
+Hmmm....White or this?
+![](https://img.shields.io/badge/-Unity_Game_Engine-C9284D) 
 
-</p>
+-->
+ 
+
+ 
+ 
+```Game Engines```
+ 
+ 
+
+ 
+![](https://img.shields.io/badge/-Unity_Game_Engine-white)
+![](https://img.shields.io/badge/-Unreal_Game_Engine-red)
+![](https://img.shields.io/badge/-Godot_Game_Engine-blue)
+
+ 
+ 
+
  
 <br/>
  
@@ -231,25 +251,3 @@ I have experience with:
  
   
    
-     
-      
-       
-<!--
-TOO BIG ):
-
-## A Quick Summary ##
-
-
-
-![](assets/c.svg)
-![](assets/json.svg)
-![](assets/cplusplus.svg)
-![](assets/csharp.svg)
-![](assets/dotnet.svg)
-![](assets/python.svg)
-![](assets/unity.svg)
-![](assets/unrealengine.svg)
-![](assets/godot.svg)
-![](https://upload.wikimedia.org/wikipedia/commons/5/51/Atmel_logo.svg)
-
--->       
