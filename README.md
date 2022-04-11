@@ -140,18 +140,7 @@ For personal projects, I often explore the concept of randomness in computer sci
    
 GIFS should be here but uh, the files were too large. I'll put them up when I fix that! If you'd like the see the source videos or gif files, let me know.
 
-<!-- 
-![](assets/rotation_lod.gif)
 
-![](assets/roation_with_guide2.gif)
-
-![](assets/rotation_w_guides_1.gif)
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
-![](https://img.shields.io/endpoint?url=<URL>&style<STYLE>)
-<img src="assets/unity.svg" width="5%" height="5%"></img>
-<img src="assets/unrealengine.svg" width="5%" height="5%"></img>
-<img src="assets/godotengine.svg" width="5%" height="5%"></img>
--->
   
 </p>
 
@@ -180,7 +169,7 @@ https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 ![](https://img.shields.io/badge/-JSON-yellow)
 ![](https://img.shields.io/badge/-Java-yellow)
 ![](https://img.shields.io/badge/-JavaScript-yellow)
-![](https://img.shields.io/badge/-Python-brightgreen)
+![](https://img.shields.io/badge/-Python_🐍-darkgreen)
 
 
  <br/>
