@@ -54,7 +54,7 @@ I'm a positive person who is fascinated by ideas and new concepts, someone who i
  
  
  
-⚡ Fun fact: *I've worked with software for a long time, starting with game development with the Unity Game Engine, but I developed an extremely strong interest and passion after taking a **good knock to the noggin**. Yes, I'm fine, the only side effects I've noticed are a slightly decreased short term memory and things similar to that.*
+⚡ Fun fact: *I've worked with software for a long time, starting with game development with the Unity Game Engine, but I developed an extremely strong interest and passion after taking a **good knock to the noggin**. Yes, I'm fine (thankfully) and have only had minor side-effects from this.*
 
  
 
@@ -78,7 +78,7 @@ I'm a positive person who is fascinated by ideas and new concepts, someone who i
 <br/>
 
  
-I like coffee, I get up super early, and I started using it with no other thoughts or reason behind it! I needed a new username I thought it up withm my working coffee! 
+I like coffee, I get up super early, and I started using it with no other thoughts or reason behind it! I needed a new username I thought it up while drinking my morning coffee! 
 
  
 
@@ -102,7 +102,7 @@ NO!
  
  <br/>
  
- I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here.
+ I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here and I can provide context on request.
  
  
  
@@ -124,22 +124,17 @@ NO!
  
  I am currently working as a part of a skilled research and development team who creates educational automotive training electronics. This includes creating desktop software, embedded programs for microcontrollers, hardware systems, and the integration of real modules from vehicles (such as the BCM, or Body Control Module) and making them work outside of their networks.
 
- <br/>
-
-For personal projects, I often explore the concept of randomness in computer science(it's interesting), work on small game development projects, and work on any interesting projects I can think of.
  
  <br/>
  
    
- Here's one of my favorite challanges I've worked on so far! It's a simulation of celestial gravity using physics formulas and implements a level of detail system and procedural generation for the celestial bodies! 
+One of my favorite challanges I've worked on so far! It's a simulation of celestial gravity using physics formulas and implements a level of detail system and procedural generation for the celestial bodies! 
 
-   
-<br/>
-<br/>
 
-   
-GIFS should be here but uh, the files were too large. I'll put them up when I fix that! If you'd like the see the source videos or gif files, let me know.
-
+ <br/>
+ 
+ 
+Some others would include using the marching cubes algorithm to create 3D landscapes/areas and creating electronic puzzle boxes using AVR, PIC, and whatever thrift stores have that can be used to make an enjoyable puzzle!
 
   
 </p>
