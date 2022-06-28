@@ -29,32 +29,36 @@ Here are some ideas to get you started:
  
  Generic greeting 👋  
  
- 
- </h1>
- 
- 
-<br/>
- 
-<p>
- 
-I'm Tim!
-
- 
-<hr/>
-
- 
-
- 
- 
-I'm a positive person who is fascinated by ideas and new concepts, someone who is excited to continously improve, and someone who loves a good challange. I'm highly motivated by learning and I am always searching out new projects and activities.
-
- 
- 
  <br/>
  
  
+ I'm Tim! (⊙﹏⊙)
  
-⚡ Fun fact: *I've worked with software for a long time, starting with game development with the Unity Game Engine, but I developed an extremely strong interest and passion after taking a **good knock to the noggin**. Yes, I'm fine (thankfully) and have only had minor side-effects from this.*
+ <br/>
+ 
+ </h1>
+
+
+
+
+<p>
+ 
+ 
+
+ 
+ 
+I'm a positive, highly curious person who is fascinated by ideas and new concepts, someone who is excited to continously improve, and someone who loves a good challange. I'm highly motivated by learning and I am always searching out new projects and activities. 
+
+
+<br/>
+
+💬 Need help understanding pointers? Pointers that point to pointers (👉°ヮ°)👉 (👉°ヮ°)👉 ( ͡° ͜ʖ ͡°) ? I can help!
+
+ 
+<br/>
+ 
+
+
 
  
 
@@ -102,7 +106,7 @@ NO!
  
  <br/>
  
- I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here and I can provide context on request.
+I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here and I can provide context on request. I honestly haven't had enough time for github projects but (as of June 2022) I will very soon have more time to address that.
  
  
  
@@ -122,19 +126,41 @@ NO!
  
 <p>
  
- I am currently working as a part of a skilled research and development team who creates educational automotive training electronics. This includes creating desktop software, embedded programs for microcontrollers, hardware systems, and the integration of real modules from vehicles (such as the BCM, or Body Control Module) and making them work outside of their networks.
+I am currently working as the software engineer in a skilled research and development team who creates automotive training electronics. This includes creating applications, embedded programs, advanced automotive hardware systems, and the integration (and recreation) of advanced modules from vehicles. These tasks require data acquisition (especially those related to safety), signal processing, creating drivers for various components, and much more. My job allows me to explore many aspects of STEM, UI/UX/HI, and experiment with new and interesting things. I would have never learned how to manage high pressure systems, use RADAR, or how to recreate everything within motor vehicles if it wasn't for this position. The programs and the hardware are both highly sensitive as well as very proprietary, so do not expect to see things from these projects on my github.
 
  
  <br/>
  
+ <h3>Personal</h3>
+ 
+ <hr/>
+ 
+ 
+ 
+In my personal time, I enjoy working on software, electronics, 3D modeling (and printing), game development, art projects, and just generally making things. I'm very interested in procedural generation and creating realtime graphics by using **MATH** to describe the world around us. My favorite programming languages are C, C++, and C# but I have experience with others as well. C, C++, and Assembly has given me the knowledge to easily learn new programming languages and computer science topics but I'll be honest... I'm not the biggest fan of writing programs exclusively in Assembly unless it's for a fun challange. 
+
+<br/>
+
+🤔 *Hmmm...I wonder what would happen if I wrote an entire C project using Assembly Blocks inside of functions.*
+
+
+<br/>
+
+I love video game development, since it lets me explore computer science, physics, rendering, art, music, and plenty of other topics while making a product whose final purpose is fun. I love embedded development because it's fun and makes me feel like an inventor.
+
+
+
+
+ 
+ <br/>
    
-One of my favorite challanges I've worked on so far! It's a simulation of celestial gravity using physics formulas and implements a level of detail system and procedural generation for the celestial bodies! 
+One of my favorite personal challanges I've worked on so far? It's a simulation of celestial gravity using physics formulas and procedural generation for the celestial bodies!
 
 
  <br/>
  
  
-Some others would include using the marching cubes algorithm to create 3D landscapes/areas and creating electronic puzzle boxes using AVR, PIC, and whatever thrift stores have that can be used to make an enjoyable puzzle!
+In relation to embedded systems, another fun thing I do is create electronic puzzle boxes using AVR, PIC, Raspberry PI, and whatever thrift stores have that can be used to make an enjoyable puzzle! 
 
   
 </p>
@@ -212,25 +238,40 @@ Hmmm....White or this?
 I have experience with:
 
 
-* Research
+<br/>
+
+
+* Supervising, Training, and Teaching R&D industry newcomers
+* Developing Course Material for Automotive Students as well as R&D Newcomers 
 * Software Development and Engineering
-* CAN Network Development
-* Project Architecture and Development
-* Hardware integration
+* Resource Management
+* Data Acquisition
+* Signal Processing
+* Hardware Communications (ex. SPI, I2C, and CAN)
+* Project Architecture
+* Integrating with Existing Hardware Systems
+* Integrating with Advanced Sensors (ex. Automotive Radar and Image Processing)
 * HIL(Hardware-in-the-Loop) and SIL(Software-in-the-Loop) simulations
 * Database and API connections
-* Educational Automotive Simulations
+* Fullstack Web Development, Both With Vanilla Web Development as well as Existing Frameworks
+* Real Time Embedded Systems
 * IOT and Electronics Development
-* Embedded Software for Microcontrollers
-* **AND MORE**
+* Embedded Software for 8 bit and 32 bit Microcontrollers (ex. AVR, PIC, and ARM)
+* Research, Datasheet Reading, and Advanced Googling.
+* **BUT WAIT, THERE'S MORE. FOR THE LOW PRICE OF FREE, YOU CAN ASK FOR MORE OF MY EXPERIENCE**
 
 
+
+
+<br/>
+
+
+My greatest CS realted skill gained from these experiences would be knowing what questions to ask and how to find the answers to those questions.
  
- 
- 
+<br/>
  
   
- </p>
+</p>
  
  
   
