@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  <br/>
  
  
- I'm Tim! (⊙﹏⊙)
+ I'm Tim!
  
  <br/>
  
@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 I'm a positive, highly curious person who is fascinated by ideas and new concepts, someone who is excited to continously improve, and someone who loves a good challange. I'm highly motivated by learning and I am always searching out new projects and activities. 
 
 
-<br/>
 
-💬 Need help understanding pointers? Pointers that point to pointers (👉°ヮ°)👉 (👉°ヮ°)👉 ( ͡° ͜ʖ ͡°) ? I can help!
 
  
 <br/>
@@ -68,7 +66,7 @@ I'm a positive, highly curious person who is fascinated by ideas and new concept
  <br/>
  
  
- FAQ 
+ FAQ
  
  
  <hr/>
@@ -82,7 +80,7 @@ I'm a positive, highly curious person who is fascinated by ideas and new concept
 <br/>
 
  
-I like coffee, I get up super early, and I started using it with no other thoughts or reason behind it! I needed a new username I thought it up while drinking my morning coffee! 
+I like coffee, I get up super early, and I started using it with no other thoughts or reason behind it! I needed a new username While drinking my morning coffee I thought "hmm...I'm groggy and I'm a software engineer...". This was a real interview question I've gotten once, hopefully this answers it.
 
  
 
@@ -106,7 +104,7 @@ NO!
  
  <br/>
  
-I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here and I can provide context on request. I honestly haven't had enough time for github projects but (as of June 2022) I will very soon have more time to address that.
+I'm a busy fella! So please keep in mind there's a lot more to show off than what's on here and I can provide context on request. I honestly haven't had enough time for github projects as I work early, get off late, and drive a good distance but this is something I'm trying to adjust. I enjoy creating things and it's a priority for my to share some of the things I make.
  
  
  
@@ -137,11 +135,11 @@ I am currently working as the software engineer in a skilled research and develo
  
  
  
-In my personal time, I enjoy working on software, electronics, 3D modeling (and printing), game development, art projects, and just generally making things. I'm very interested in procedural generation and creating realtime graphics by using **MATH** to describe the world around us. My favorite programming languages are C, C++, and C# but I have experience with others as well. C, C++, and Assembly has given me the knowledge to easily learn new programming languages and computer science topics but I'll be honest... I'm not the biggest fan of writing programs exclusively in Assembly unless it's for a fun challange. 
+In my personal time, I enjoy working on software, electronics, 3D modeling (and printing), game development, art projects, and just generally making things. My favorite programming languages are C, C++, and C# but I have experience with others as well. C, C++, and Assembly has given me the knowledge to easily learn new programming languages and computer science topics but I'll be honest... I'm not the biggest fan of writing programs exclusively in Assembly unless it's for a fun challange. 
 
 <br/>
 
-🤔 *Hmmm...I wonder what would happen if I wrote an entire C project using Assembly Blocks inside of functions.*
+🤔 *Hmmm...I wonder what would happen if I wrote an entire C project using Assembly Blocks inside of a C project. It can be done but...should it?*
 
 
 <br/>
@@ -154,7 +152,7 @@ I love video game development, since it lets me explore computer science, physic
  
  <br/>
    
-One of my favorite personal challanges I've worked on so far? It's a simulation of celestial gravity using physics formulas and procedural generation for the celestial bodies!
+One of my favorite personal challanges I've worked on so far? It's a simulation of celestial gravity using physics formulas and procedural generation for the celestial bodies! This one still just sticks out to me even though there's been many others.
 
 
  <br/>
