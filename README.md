@@ -84,7 +84,7 @@ I like coffee, I get up super early, and I started using it with no other though
 
  
 
-⚡ Fun fact: *The duck is a rubber duck I received as a gift! I like that little guy.*
+⚡ Fun fact: *The duck is a rubber debug duck I received as a gift! I like that little guy, his name is Ronnie the Rubber Debug Duck.*
 
 
 <br/>
@@ -139,14 +139,18 @@ In my personal time, I enjoy working on software, electronics, 3D modeling (and 
 
 <br/>
 
-🤔 *Hmmm...I wonder what would happen if I wrote an entire C project using Assembly Blocks inside of a C project. It can be done but...should it?*
 
 
 <br/>
 
 I love video game development, since it lets me explore computer science, physics, rendering, art, music, and plenty of other topics while making a product whose final purpose is fun. I love embedded development because it's fun and makes me feel like an inventor.
 
-
+ 
+ 
+ <br/>
+ 
+ 
+ Currently, I've been working on some procedural world, civilization, and history generation using Unity. This project is very inspired by The Hobbit and Dwarf Fortress. The ability to be able to create worlds full of lore and adventure really excites me.
 
 
  
