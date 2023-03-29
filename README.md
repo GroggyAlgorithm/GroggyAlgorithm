@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  </h1>
 
 
-
+<!--
 
 <p>
  
@@ -197,16 +197,7 @@ In relation to embedded systems, another fun thing I do is create electronic puz
 
  <br/>
  
- 
-<!-- 
 
-Hmmm....White or this?
-![](https://img.shields.io/badge/-Unity_Game_Engine-C9284D) 
-
--->
- 
-
- 
  
 ```Game Engines```
  
@@ -277,4 +268,4 @@ My greatest CS realted skill gained from these experiences would be knowing what
  
  
   
-   
+   -->
